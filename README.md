@@ -18,4 +18,4 @@ The final model achieves strong performance based on accuracy, precision, recall
 
 ##Documentation
 
-The research paper provides methodology, dataset information, algorithm selection, and complete evaluation details. The presentation offers a summarized visual explanation suitable for academic submission.
+The research paper provides methodology, dataset information, algorithm selection, and complete evaluation details. The presentation offers a summarized visual explanation.
